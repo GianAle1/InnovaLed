@@ -2,7 +2,7 @@
 function connectDB() {
     $host = 'localhost';  // Cambia a tu dirección de host si es necesario
     $port = '3306';       // Puerto de MySQL
-    $dbName = 'mascotas_perdidas'; // Cambia esto por el nombre de tu base de datos
+    $dbName = 'innovaled'; // Cambia esto por el nombre de tu base de datos
     $username = 'root';   // Tu usuario de MySQL
     $password = '0803'; // Cambia esto por tu contraseña de MySQL
 
